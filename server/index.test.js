@@ -149,3 +149,12 @@
 // });
 
 // ** test for Delete - Remove Student ** ------------------------------
+// const res = pm.response.json();
+
+// pm.test("Status code is 200", function() {
+//   pm.response.to.have.status(200);
+// });
+
+// pm.test("Student w/ ID 18 removed", function() {
+//   pm.expect(res.id).to.eql(18);
+// });
